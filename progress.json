@@ -1,0 +1,18 @@
+{
+  "generated_at": "2026-09-15T04:35:34.084Z",
+  "items": {
+    "lab:23": {
+      "kind": "lab",
+      "id": "23",
+      "title": "Train a Binary Classifier",
+      "difficulty": "easy",
+      "category": "Logistic Regression",
+      "url": "https://www.deep-ml.com/labs/23",
+      "path": "labs/0023-train-a-binary-classifier",
+      "first_solved_at": "2026-09-15T04:35:30.737Z",
+      "last_pushed_at": "2026-09-15T04:35:30.737Z",
+      "language": "python",
+      "lines": 59
+    }
+  }
+}
