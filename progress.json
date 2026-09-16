@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-16T10:04:38.285Z",
+  "generated_at": "2026-09-16T10:22:41.175Z",
   "items": {
     "lab:23": {
       "kind": "lab",
@@ -61,6 +61,19 @@
       "last_pushed_at": "2026-09-16T10:04:37.593Z",
       "language": "python",
       "lines": 24
+    },
+    "problem:801": {
+      "kind": "problem",
+      "id": "801",
+      "title": "Polynomial Regression Fit",
+      "difficulty": "medium",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/801",
+      "path": "problems/0801-polynomial-regression-fit",
+      "first_solved_at": "2026-09-16T10:22:40.535Z",
+      "last_pushed_at": "2026-09-16T10:22:40.535Z",
+      "language": "python",
+      "lines": 21
     }
   }
 }
