@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**25** solved · 21 problems · 1 labs · 3 math
+**26** solved · 21 problems · 1 labs · 4 math
 
 ![Coverage](./coverage.svg)
 
@@ -44,6 +44,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 
 | | Difficulty | Solved | |
 | --- | --- | --- | --- |
+| [Class Imbalance and Proper Scoring](https://www.deep-ml.com/math-problems/44) | easy | 2026-09-21 | [solution](math/0044-class-imbalance-and-proper-scoring) |
 | [Model Selection: CV, AIC, and BIC](https://www.deep-ml.com/math-problems/43) | easy | 2026-09-16 | [solution](math/0043-model-selection-cv-aic-and-bic) |
 | [Bias–Variance Decomposition](https://www.deep-ml.com/math-problems/39) | medium | 2026-09-16 | [solution](math/0039-bias-variance-decomposition) |
 | [Margins and Soft-Margin SVMs](https://www.deep-ml.com/math-problems/42) | medium | 2026-09-19 | [solution](math/0042-margins-and-soft-margin-svms) |
