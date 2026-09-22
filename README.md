@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**29** solved · 24 problems · 1 labs · 4 math
+**30** solved · 25 problems · 1 labs · 4 math
 
 ![Coverage](./coverage.svg)
 
@@ -31,6 +31,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Implement K-Nearest Neighbors](https://www.deep-ml.com/problems/173) | medium | 2026-09-17 | [solution](problems/0173-implement-k-nearest-neighbors) |
 | [Implement Precision-Recall Curve](https://www.deep-ml.com/problems/278) | medium | 2026-09-22 | [solution](problems/0278-implement-precision-recall-curve) |
 | [Implement RBF (Gaussian) Kernel Function](https://www.deep-ml.com/problems/280) | medium | 2026-09-20 | [solution](problems/0280-implement-rbf-gaussian-kernel-function) |
+| [Implement ROC Curve Calculation](https://www.deep-ml.com/problems/276) | medium | 2026-09-22 | [solution](problems/0276-implement-roc-curve-calculation) |
 | [Implement Stratified K-Fold Cross-Validation](https://www.deep-ml.com/problems/840) | medium | 2026-09-18 | [solution](problems/0840-implement-stratified-k-fold-cross-validation) |
 | [Learning Curve Generator for Bias-Variance Diagnosis](https://www.deep-ml.com/problems/800) | medium | 2026-09-17 | [solution](problems/0800-learning-curve-generator-for-bias-variance-diagnosis) |
 | [Polynomial Regression Fit](https://www.deep-ml.com/problems/801) | medium | 2026-09-16 | [solution](problems/0801-polynomial-regression-fit) |
