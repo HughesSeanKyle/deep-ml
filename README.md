@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**33** solved · 27 problems · 2 labs · 4 math
+**34** solved · 27 problems · 3 labs · 4 math
 
 ![Coverage](./coverage.svg)
 
@@ -44,6 +44,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 
 | | Difficulty | Solved | |
 | --- | --- | --- | --- |
+| [Fix Overfitting with Regularization (Sklearn)](https://www.deep-ml.com/labs/22) | easy | 2026-09-23 | [solution](labs/0022-fix-overfitting-with-regularization-sklearn) |
 | [Train a Binary Classifier](https://www.deep-ml.com/labs/23) | easy | 2026-09-15 | [solution](labs/0023-train-a-binary-classifier) |
 | [Fix Overfitting with Regularization (NumPy)](https://www.deep-ml.com/labs/21) | medium | 2026-09-22 | [solution](labs/0021-fix-overfitting-with-regularization-numpy) |
 
