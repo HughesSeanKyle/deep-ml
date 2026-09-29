@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-29T03:49:30.408Z",
+  "generated_at": "2026-09-29T06:32:39.321Z",
   "items": {
     "lab:23": {
       "kind": "lab",
@@ -530,6 +530,19 @@
       "last_pushed_at": "2026-09-29T03:49:29.489Z",
       "language": "python",
       "lines": 96
+    },
+    "problem:38": {
+      "kind": "problem",
+      "id": "38",
+      "title": "Implement AdaBoost Fit Method",
+      "difficulty": "hard",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/38",
+      "path": "problems/0038-implement-adaboost-fit-method",
+      "first_solved_at": "2026-09-29T06:32:38.444Z",
+      "last_pushed_at": "2026-09-29T06:32:38.444Z",
+      "language": "python",
+      "lines": 56
     }
   }
 }
