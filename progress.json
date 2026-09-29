@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-29T07:22:40.662Z",
+  "generated_at": "2026-09-29T08:35:07.105Z",
   "items": {
     "lab:23": {
       "kind": "lab",
@@ -569,6 +569,19 @@
       "last_pushed_at": "2026-09-29T07:22:39.875Z",
       "language": "python",
       "lines": 23
+    },
+    "problem:345": {
+      "kind": "problem",
+      "id": "345",
+      "title": "Implement Out-of-Bag Score Calculation",
+      "difficulty": "medium",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/345",
+      "path": "problems/0345-implement-out-of-bag-score-calculation",
+      "first_solved_at": "2026-09-29T08:35:06.385Z",
+      "last_pushed_at": "2026-09-29T08:35:06.385Z",
+      "language": "python",
+      "lines": 41
     }
   }
 }
