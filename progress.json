@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-30T07:30:18.565Z",
+  "generated_at": "2026-09-30T08:07:15.893Z",
   "items": {
     "lab:23": {
       "kind": "lab",
@@ -634,6 +634,19 @@
       "last_pushed_at": "2026-09-30T07:30:17.450Z",
       "language": "python",
       "lines": 62
+    },
+    "problem:259": {
+      "kind": "problem",
+      "id": "259",
+      "title": "Implement DBSCAN Clustering Algorithm",
+      "difficulty": "medium",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/259",
+      "path": "problems/0259-implement-dbscan-clustering-algorithm",
+      "first_solved_at": "2026-09-30T08:07:11.898Z",
+      "last_pushed_at": "2026-09-30T08:07:11.898Z",
+      "language": "python",
+      "lines": 65
     }
   }
 }
