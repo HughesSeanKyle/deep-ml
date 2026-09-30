@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**51** solved · 38 problems · 5 labs · 8 math
+**52** solved · 39 problems · 5 labs · 8 math
 
 ![Coverage](./coverage.svg)
 
@@ -31,6 +31,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Gaussian Naive Bayes Classifier](https://www.deep-ml.com/problems/261) | medium | 2026-09-18 | [solution](problems/0261-gaussian-naive-bayes-classifier) |
 | [Handle Imbalanced Data with SMOTE](https://www.deep-ml.com/problems/357) | medium | 2026-09-21 | [solution](problems/0357-handle-imbalanced-data-with-smote) |
 | [Implement DBSCAN Clustering Algorithm](https://www.deep-ml.com/problems/259) | medium | 2026-09-30 | [solution](problems/0259-implement-dbscan-clustering-algorithm) |
+| [Implement Gaussian Mixture Model (GMM) E-step](https://www.deep-ml.com/problems/365) | medium | 2026-09-30 | [solution](problems/0365-implement-gaussian-mixture-model-gmm-e-step) |
 | [Implement Gradient Boosting Regressor Step](https://www.deep-ml.com/problems/344) | medium | 2026-09-29 | [solution](problems/0344-implement-gradient-boosting-regressor-step) |
 | [Implement Grid Search](https://www.deep-ml.com/problems/288) | medium | 2026-09-18 | [solution](problems/0288-implement-grid-search) |
 | [Implement K-Means++ Initialization](https://www.deep-ml.com/problems/362) | medium | 2026-09-30 | [solution](problems/0362-implement-k-means-initialization) |
