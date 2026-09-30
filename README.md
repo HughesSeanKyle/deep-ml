@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**47** solved · 34 problems · 5 labs · 8 math
+**48** solved · 35 problems · 5 labs · 8 math
 
 ![Coverage](./coverage.svg)
 
@@ -31,6 +31,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Handle Imbalanced Data with SMOTE](https://www.deep-ml.com/problems/357) | medium | 2026-09-21 | [solution](problems/0357-handle-imbalanced-data-with-smote) |
 | [Implement Gradient Boosting Regressor Step](https://www.deep-ml.com/problems/344) | medium | 2026-09-29 | [solution](problems/0344-implement-gradient-boosting-regressor-step) |
 | [Implement Grid Search](https://www.deep-ml.com/problems/288) | medium | 2026-09-18 | [solution](problems/0288-implement-grid-search) |
+| [Implement K-Means++ Initialization](https://www.deep-ml.com/problems/362) | medium | 2026-09-30 | [solution](problems/0362-implement-k-means-initialization) |
 | [Implement K-Nearest Neighbors](https://www.deep-ml.com/problems/173) | medium | 2026-09-17 | [solution](problems/0173-implement-k-nearest-neighbors) |
 | [Implement Out-of-Bag Score Calculation](https://www.deep-ml.com/problems/345) | medium | 2026-09-29 | [solution](problems/0345-implement-out-of-bag-score-calculation) |
 | [Implement Precision-Recall Curve](https://www.deep-ml.com/problems/278) | medium | 2026-09-22 | [solution](problems/0278-implement-precision-recall-curve) |
