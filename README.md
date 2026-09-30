@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**49** solved · 36 problems · 5 labs · 8 math
+**50** solved · 37 problems · 5 labs · 8 math
 
 ![Coverage](./coverage.svg)
 
@@ -44,6 +44,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Permutation Feature Importance](https://www.deep-ml.com/problems/812) | medium | 2026-09-22 | [solution](problems/0812-permutation-feature-importance) |
 | [Polynomial Regression Fit](https://www.deep-ml.com/problems/801) | medium | 2026-09-16 | [solution](problems/0801-polynomial-regression-fit) |
 | [Reconstruction Error from PCA](https://www.deep-ml.com/problems/353) | medium | 2026-09-18 | [solution](problems/0353-reconstruction-error-from-pca) |
+| [Silhouette Score for Clustering Evaluation](https://www.deep-ml.com/problems/254) | medium | 2026-09-30 | [solution](problems/0254-silhouette-score-for-clustering-evaluation) |
 | [Implement AdaBoost Fit Method](https://www.deep-ml.com/problems/38) | hard | 2026-09-29 | [solution](problems/0038-implement-adaboost-fit-method) |
 | [Implement Bagging Classifier from Scratch](https://www.deep-ml.com/problems/307) | hard | 2026-09-29 | [solution](problems/0307-implement-bagging-classifier-from-scratch) |
 | [Implement Stacking Classifier](https://www.deep-ml.com/problems/346) | hard | 2026-09-30 | [solution](problems/0346-implement-stacking-classifier) |
