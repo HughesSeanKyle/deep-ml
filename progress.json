@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-01T04:19:14.037Z",
+  "generated_at": "2026-10-01T06:53:52.035Z",
   "items": {
     "lab:23": {
       "kind": "lab",
@@ -673,6 +673,19 @@
       "last_pushed_at": "2026-10-01T04:19:12.382Z",
       "language": "python",
       "lines": 44
+    },
+    "problem:341": {
+      "kind": "problem",
+      "id": "341",
+      "title": "Gaussian Mixture Model with EM Algorithm",
+      "difficulty": "medium",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/341",
+      "path": "problems/0341-gaussian-mixture-model-with-em-algorithm",
+      "first_solved_at": "2026-10-01T06:53:51.128Z",
+      "last_pushed_at": "2026-10-01T06:53:51.128Z",
+      "language": "python",
+      "lines": 68
     }
   }
 }
