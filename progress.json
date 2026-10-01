@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-01T07:01:37.644Z",
+  "generated_at": "2026-10-01T07:07:35.080Z",
   "items": {
     "lab:23": {
       "kind": "lab",
@@ -699,6 +699,19 @@
       "last_pushed_at": "2026-10-01T07:01:34.540Z",
       "language": "python",
       "lines": 22
+    },
+    "problem:260": {
+      "kind": "problem",
+      "id": "260",
+      "title": "Calculate Expected Calibration Error (ECE)",
+      "difficulty": "medium",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/260",
+      "path": "problems/0260-calculate-expected-calibration-error-ece",
+      "first_solved_at": "2026-10-01T07:07:34.002Z",
+      "last_pushed_at": "2026-10-01T07:07:34.002Z",
+      "language": "python",
+      "lines": 35
     }
   }
 }
