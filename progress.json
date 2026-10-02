@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-02T05:00:38.067Z",
+  "generated_at": "2026-10-02T07:46:00.535Z",
   "items": {
     "lab:23": {
       "kind": "lab",
@@ -738,6 +738,19 @@
       "last_pushed_at": "2026-10-02T05:00:37.301Z",
       "language": "python",
       "lines": 41
+    },
+    "problem:349": {
+      "kind": "problem",
+      "id": "349",
+      "title": "Implement Kernel PCA with RBF Kernel",
+      "difficulty": "hard",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/349",
+      "path": "problems/0349-implement-kernel-pca-with-rbf-kernel",
+      "first_solved_at": "2026-10-02T07:45:59.583Z",
+      "last_pushed_at": "2026-10-02T07:45:59.583Z",
+      "language": "python",
+      "lines": 53
     }
   }
 }
