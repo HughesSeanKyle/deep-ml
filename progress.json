@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-01T08:04:04.066Z",
+  "generated_at": "2026-10-02T05:00:38.067Z",
   "items": {
     "lab:23": {
       "kind": "lab",
@@ -725,6 +725,19 @@
       "last_pushed_at": "2026-10-01T08:04:02.995Z",
       "language": "python",
       "lines": 33
+    },
+    "problem:21": {
+      "kind": "problem",
+      "id": "21",
+      "title": "Pegasos Kernel SVM Implementation",
+      "difficulty": "hard",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/21",
+      "path": "problems/0021-pegasos-kernel-svm-implementation",
+      "first_solved_at": "2026-10-02T05:00:37.301Z",
+      "last_pushed_at": "2026-10-02T05:00:37.301Z",
+      "language": "python",
+      "lines": 41
     }
   }
 }
