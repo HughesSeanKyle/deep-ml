@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-02T09:27:54.177Z",
+  "generated_at": "2026-10-03T04:54:09.940Z",
   "items": {
     "lab:23": {
       "kind": "lab",
@@ -790,6 +790,19 @@
       "last_pushed_at": "2026-10-02T09:27:53.469Z",
       "language": "python",
       "lines": 43
+    },
+    "problem:799": {
+      "kind": "problem",
+      "id": "799",
+      "title": "Quadratic Discriminant Analysis (QDA) Classifier",
+      "difficulty": "medium",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/799",
+      "path": "problems/0799-quadratic-discriminant-analysis-qda-classifier",
+      "first_solved_at": "2026-10-03T04:54:08.880Z",
+      "last_pushed_at": "2026-10-03T04:54:08.880Z",
+      "language": "python",
+      "lines": 58
     }
   }
 }
