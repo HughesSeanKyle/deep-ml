@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-03T04:54:09.940Z",
+  "generated_at": "2026-10-04T06:22:27.423Z",
   "items": {
     "lab:23": {
       "kind": "lab",
@@ -803,6 +803,19 @@
       "last_pushed_at": "2026-10-03T04:54:08.880Z",
       "language": "python",
       "lines": 58
+    },
+    "lab:27": {
+      "kind": "lab",
+      "id": "27",
+      "title": "Combine Trained Models into an Ensemble",
+      "difficulty": "medium",
+      "category": "Ensembles",
+      "url": "https://www.deep-ml.com/labs/27",
+      "path": "labs/0027-combine-trained-models-into-an-ensemble",
+      "first_solved_at": "2026-10-04T06:22:26.801Z",
+      "last_pushed_at": "2026-10-04T06:22:26.801Z",
+      "language": "python",
+      "lines": 33
     }
   }
 }

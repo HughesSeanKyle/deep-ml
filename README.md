@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**63** solved · 50 problems · 5 labs · 8 math
+**64** solved · 50 problems · 6 labs · 8 math
 
 ![Coverage](./coverage.svg)
 
@@ -69,6 +69,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | --- | --- | --- | --- |
 | [Fix Overfitting with Regularization (Sklearn)](https://www.deep-ml.com/labs/22) | easy | 2026-09-23 | [solution](labs/0022-fix-overfitting-with-regularization-sklearn) |
 | [Train a Binary Classifier](https://www.deep-ml.com/labs/23) | easy | 2026-09-15 | [solution](labs/0023-train-a-binary-classifier) |
+| [Combine Trained Models into an Ensemble](https://www.deep-ml.com/labs/27) | medium | 2026-10-04 | [solution](labs/0027-combine-trained-models-into-an-ensemble) |
 | [Design Your Own Tabular Classifier](https://www.deep-ml.com/labs/35) | medium | 2026-09-25 | [solution](labs/0035-design-your-own-tabular-classifier) |
 | [Fix Overfitting with Regularization (NumPy)](https://www.deep-ml.com/labs/21) | medium | 2026-09-22 | [solution](labs/0021-fix-overfitting-with-regularization-numpy) |
 | [Build a Tree for a Random Forest](https://www.deep-ml.com/labs/26) | hard | 2026-09-24 | [solution](labs/0026-build-a-tree-for-a-random-forest) |
