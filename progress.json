@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-04T06:22:27.423Z",
+  "generated_at": "2026-10-05T05:12:48.642Z",
   "items": {
     "lab:23": {
       "kind": "lab",
@@ -816,6 +816,19 @@
       "last_pushed_at": "2026-10-04T06:22:26.801Z",
       "language": "python",
       "lines": 33
+    },
+    "lab:28": {
+      "kind": "lab",
+      "id": "28",
+      "title": "Few-Shot Classification with Cluster-Based Label Propagation",
+      "difficulty": "medium",
+      "category": "Clustering",
+      "url": "https://www.deep-ml.com/labs/28",
+      "path": "labs/0028-few-shot-classification-with-cluster-based-label-propagation",
+      "first_solved_at": "2026-10-05T05:12:48.033Z",
+      "last_pushed_at": "2026-10-05T05:12:48.033Z",
+      "language": "python",
+      "lines": 44
     }
   }
 }
