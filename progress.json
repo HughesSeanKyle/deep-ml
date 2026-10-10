@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-10T07:48:06.122Z",
+  "generated_at": "2026-10-10T12:06:59.231Z",
   "items": {
     "lab:23": {
       "kind": "lab",
@@ -905,6 +905,19 @@
       "path": "problems/0882-add-a-bias-vector-to-a-batch-via-broadcasting",
       "first_solved_at": "2026-10-10T07:48:05.490Z",
       "last_pushed_at": "2026-10-10T07:48:05.490Z",
+      "language": "python",
+      "lines": 6
+    },
+    "problem:883": {
+      "kind": "problem",
+      "id": "883",
+      "title": "Implement a Linear Layer Forward Pass with Matrix Multiplication",
+      "difficulty": "easy",
+      "category": "Pytorch",
+      "url": "https://www.deep-ml.com/problems/883",
+      "path": "problems/0883-implement-a-linear-layer-forward-pass-with-matrix-multiplication",
+      "first_solved_at": "2026-10-10T12:06:58.523Z",
+      "last_pushed_at": "2026-10-10T12:06:58.523Z",
       "language": "python",
       "lines": 6
     }
