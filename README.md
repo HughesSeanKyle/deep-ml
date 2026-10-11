@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**79** solved · 62 problems · 9 labs · 8 math
+**80** solved · 63 problems · 9 labs · 8 math
 
 ![Coverage](./coverage.svg)
 
@@ -13,6 +13,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | | Difficulty | Solved | |
 | --- | --- | --- | --- |
 | [Add a Bias Vector to a Batch via Broadcasting](https://www.deep-ml.com/problems/882) | easy | 2026-10-10 | [solution](problems/0882-add-a-bias-vector-to-a-batch-via-broadcasting) |
+| [Backprop a Linear Layer by Hand](https://www.deep-ml.com/problems/898) | easy | 2026-10-11 | [solution](problems/0898-backprop-a-linear-layer-by-hand) |
 | [Balance Dataset via Undersampling](https://www.deep-ml.com/problems/1057) | easy | 2026-09-22 | [solution](problems/1057-balance-dataset-via-undersampling) |
 | [Calculate SVM Margin Width](https://www.deep-ml.com/problems/282) | easy | 2026-09-20 | [solution](problems/0282-calculate-svm-margin-width) |
 | [Compute a Gradient with PyTorch Autograd](https://www.deep-ml.com/problems/884) | easy | 2026-10-10 | [solution](problems/0884-compute-a-gradient-with-pytorch-autograd) |
