@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-11T05:47:59.639Z",
+  "generated_at": "2026-10-11T06:05:39.929Z",
   "items": {
     "lab:23": {
       "kind": "lab",
@@ -996,6 +996,19 @@
       "path": "problems/1228-mean-squared-error-from-scratch",
       "first_solved_at": "2026-10-11T05:47:58.723Z",
       "last_pushed_at": "2026-10-11T05:47:58.723Z",
+      "language": "python",
+      "lines": 22
+    },
+    "problem:1229": {
+      "kind": "problem",
+      "id": "1229",
+      "title": "Binary Cross-Entropy from Logits",
+      "difficulty": "medium",
+      "category": "Pytorch",
+      "url": "https://www.deep-ml.com/problems/1229",
+      "path": "problems/1229-binary-cross-entropy-from-logits",
+      "first_solved_at": "2026-10-11T06:05:39.379Z",
+      "last_pushed_at": "2026-10-11T06:05:39.379Z",
       "language": "python",
       "lines": 22
     }

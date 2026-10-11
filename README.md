@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**78** solved · 61 problems · 9 labs · 8 math
+**79** solved · 62 problems · 9 labs · 8 math
 
 ![Coverage](./coverage.svg)
 
@@ -32,6 +32,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Single Linear Neuron Forward](https://www.deep-ml.com/problems/1224) | easy | 2026-10-11 | [solution](problems/1224-single-linear-neuron-forward) |
 | [Bernoulli Naive Bayes Classifier](https://www.deep-ml.com/problems/140) | medium | 2026-09-17 | [solution](problems/0140-bernoulli-naive-bayes-classifier) |
 | [Bias-Variance Decomposition from Bootstrap](https://www.deep-ml.com/problems/804) | medium | 2026-09-17 | [solution](problems/0804-bias-variance-decomposition-from-bootstrap) |
+| [Binary Cross-Entropy from Logits](https://www.deep-ml.com/problems/1229) | medium | 2026-10-11 | [solution](problems/1229-binary-cross-entropy-from-logits) |
 | [Calculate AUC (Area Under ROC Curve)](https://www.deep-ml.com/problems/277) | medium | 2026-09-22 | [solution](problems/0277-calculate-auc-area-under-roc-curve) |
 | [Calculate BIC/AIC for Model Selection](https://www.deep-ml.com/problems/368) | medium | 2026-10-01 | [solution](problems/0368-calculate-bic-aic-for-model-selection) |
 | [Calculate Expected Calibration Error (ECE)](https://www.deep-ml.com/problems/260) | medium | 2026-10-01 | [solution](problems/0260-calculate-expected-calibration-error-ece) |
