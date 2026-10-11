@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**76** solved · 59 problems · 9 labs · 8 math
+**77** solved · 60 problems · 9 labs · 8 math
 
 ![Coverage](./coverage.svg)
 
@@ -59,6 +59,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Learning Curve Generator for Bias-Variance Diagnosis](https://www.deep-ml.com/problems/800) | medium | 2026-09-17 | [solution](problems/0800-learning-curve-generator-for-bias-variance-diagnosis) |
 | [Linear Discriminant Analysis (LDA) Binary Classifier](https://www.deep-ml.com/problems/798) | medium | 2026-10-02 | [solution](problems/0798-linear-discriminant-analysis-lda-binary-classifier) |
 | [Multinomial Naive Bayes Classifier](https://www.deep-ml.com/problems/817) | medium | 2026-10-02 | [solution](problems/0817-multinomial-naive-bayes-classifier) |
+| [Numerically Stable Softmax](https://www.deep-ml.com/problems/1227) | medium | 2026-10-11 | [solution](problems/1227-numerically-stable-softmax) |
 | [Permutation Feature Importance](https://www.deep-ml.com/problems/812) | medium | 2026-09-22 | [solution](problems/0812-permutation-feature-importance) |
 | [Polynomial Regression Fit](https://www.deep-ml.com/problems/801) | medium | 2026-09-16 | [solution](problems/0801-polynomial-regression-fit) |
 | [Quadratic Discriminant Analysis (QDA) Classifier](https://www.deep-ml.com/problems/799) | medium | 2026-10-03 | [solution](problems/0799-quadratic-discriminant-analysis-qda-classifier) |
