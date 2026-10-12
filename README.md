@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**80** solved · 63 problems · 9 labs · 8 math
+**81** solved · 63 problems · 10 labs · 8 math
 
 ![Coverage](./coverage.svg)
 
@@ -89,6 +89,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Fix Overfitting with Regularization (NumPy)](https://www.deep-ml.com/labs/21) | medium | 2026-09-22 | [solution](labs/0021-fix-overfitting-with-regularization-numpy) |
 | [Build a Digit Classifier from Scratch](https://www.deep-ml.com/labs/20) | hard | 2026-10-05 | [solution](labs/0020-build-a-digit-classifier-from-scratch) |
 | [Build a Tree for a Random Forest](https://www.deep-ml.com/labs/26) | hard | 2026-09-24 | [solution](labs/0026-build-a-tree-for-a-random-forest) |
+| [MNIST: Classification Loss (with Gradient)](https://www.deep-ml.com/labs/4) | hard | 2026-10-12 | [solution](labs/0004-mnist-classification-loss-with-gradient) |
 
 ## Math
 

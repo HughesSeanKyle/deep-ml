@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-11T06:25:48.901Z",
+  "generated_at": "2026-10-12T04:03:34.646Z",
   "items": {
     "lab:23": {
       "kind": "lab",
@@ -1024,6 +1024,19 @@
       "last_pushed_at": "2026-10-11T06:25:48.143Z",
       "language": "python",
       "lines": 20
+    },
+    "lab:4": {
+      "kind": "lab",
+      "id": "4",
+      "title": "MNIST: Classification Loss (with Gradient)",
+      "difficulty": "hard",
+      "category": "Loss Functions",
+      "url": "https://www.deep-ml.com/labs/4",
+      "path": "labs/0004-mnist-classification-loss-with-gradient",
+      "first_solved_at": "2026-10-12T04:03:33.923Z",
+      "last_pushed_at": "2026-10-12T04:03:33.923Z",
+      "language": "python",
+      "lines": 48
     }
   }
 }
