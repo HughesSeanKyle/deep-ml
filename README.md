@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**99** solved · 80 problems · 11 labs · 8 math
+**100** solved · 80 problems · 12 labs · 8 math
 
 ![Coverage](./coverage.svg)
 
@@ -105,6 +105,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Design Your Own Tabular Classifier](https://www.deep-ml.com/labs/35) | medium | 2026-09-25 | [solution](labs/0035-design-your-own-tabular-classifier) |
 | [Few-Shot Classification with Cluster-Based Label Propagation](https://www.deep-ml.com/labs/28) | medium | 2026-10-05 | [solution](labs/0028-few-shot-classification-with-cluster-based-label-propagation) |
 | [Fix Overfitting with Regularization (NumPy)](https://www.deep-ml.com/labs/21) | medium | 2026-09-22 | [solution](labs/0021-fix-overfitting-with-regularization-numpy) |
+| [PyTorch: Implement Your Own Gradient Descent Training Step](https://www.deep-ml.com/labs/12) | medium | 2026-10-13 | [solution](labs/0012-pytorch-implement-your-own-gradient-descent-training-step) |
 | [Build a Digit Classifier from Scratch](https://www.deep-ml.com/labs/20) | hard | 2026-10-05 | [solution](labs/0020-build-a-digit-classifier-from-scratch) |
 | [Build a Tree for a Random Forest](https://www.deep-ml.com/labs/26) | hard | 2026-09-24 | [solution](labs/0026-build-a-tree-for-a-random-forest) |
 | [MNIST: Classification Loss (with Gradient)](https://www.deep-ml.com/labs/4) | hard | 2026-10-12 | [solution](labs/0004-mnist-classification-loss-with-gradient) |
