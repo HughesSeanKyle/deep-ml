@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**93** solved · 74 problems · 11 labs · 8 math
+**94** solved · 75 problems · 11 labs · 8 math
 
 ![Coverage](./coverage.svg)
 
@@ -36,6 +36,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Nesterov Accelerated Gradient Optimizer](https://www.deep-ml.com/problems/150) | easy | 2026-10-12 | [solution](problems/0150-nesterov-accelerated-gradient-optimizer) |
 | [One SGD Update Step](https://www.deep-ml.com/problems/1234) | easy | 2026-10-12 | [solution](problems/1234-one-sgd-update-step) |
 | [Reshape and Transpose a Tensor](https://www.deep-ml.com/problems/881) | easy | 2026-10-10 | [solution](problems/0881-reshape-and-transpose-a-tensor) |
+| [Run One Training Step: Forward, Loss, Backward, Optimizer](https://www.deep-ml.com/problems/886) | easy | 2026-10-13 | [solution](problems/0886-run-one-training-step-forward-loss-backward-optimizer) |
 | [Single Linear Neuron Forward](https://www.deep-ml.com/problems/1224) | easy | 2026-10-11 | [solution](problems/1224-single-linear-neuron-forward) |
 | [Adam Optimizer](https://www.deep-ml.com/problems/87) | medium | 2026-10-12 | [solution](problems/0087-adam-optimizer) |
 | [Bernoulli Naive Bayes Classifier](https://www.deep-ml.com/problems/140) | medium | 2026-09-17 | [solution](problems/0140-bernoulli-naive-bayes-classifier) |
