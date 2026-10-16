@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**106** solved · 85 problems · 13 labs · 8 math
+**107** solved · 86 problems · 13 labs · 8 math
 
 ![Coverage](./coverage.svg)
 
@@ -25,6 +25,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Count Parameters of a Sequential Model](https://www.deep-ml.com/problems/1218) | easy | 2026-10-13 | [solution](problems/1218-count-parameters-of-a-sequential-model) |
 | [Create a Float Tensor from a Python List](https://www.deep-ml.com/problems/880) | easy | 2026-10-10 | [solution](problems/0880-create-a-float-tensor-from-a-python-list) |
 | [Implement a Linear Layer Forward Pass with Matrix Multiplication](https://www.deep-ml.com/problems/883) | easy | 2026-10-10 | [solution](problems/0883-implement-a-linear-layer-forward-pass-with-matrix-multiplication) |
+| [Implement Dropout from Scratch](https://www.deep-ml.com/problems/901) | easy | 2026-10-16 | [solution](problems/0901-implement-dropout-from-scratch) |
 | [Implement Early Stopping Based on Validation Loss](https://www.deep-ml.com/problems/135) | easy | 2026-09-17 | [solution](problems/0135-implement-early-stopping-based-on-validation-loss) |
 | [Implement Gini Impurity Calculation for a Set of Classes](https://www.deep-ml.com/problems/64) | easy | 2026-09-17 | [solution](problems/0064-implement-gini-impurity-calculation-for-a-set-of-classes) |
 | [Implement Hard Voting Classifier](https://www.deep-ml.com/problems/305) | easy | 2026-09-28 | [solution](problems/0305-implement-hard-voting-classifier) |
