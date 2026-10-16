@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**107** solved · 86 problems · 13 labs · 8 math
+**108** solved · 87 problems · 13 labs · 8 math
 
 ![Coverage](./coverage.svg)
 
@@ -52,6 +52,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Calculate Expected Calibration Error (ECE)](https://www.deep-ml.com/problems/260) | medium | 2026-10-01 | [solution](problems/0260-calculate-expected-calibration-error-ece) |
 | [Calculate Explained Variance Ratio for PCA](https://www.deep-ml.com/problems/350) | medium | 2026-09-18 | [solution](problems/0350-calculate-explained-variance-ratio-for-pca) |
 | [Calculate Performance Metrics for a Classification Model](https://www.deep-ml.com/problems/77) | medium | 2026-10-01 | [solution](problems/0077-calculate-performance-metrics-for-a-classification-model) |
+| [Dropout in Train vs Eval Mode](https://www.deep-ml.com/problems/1230) | medium | 2026-10-16 | [solution](problems/1230-dropout-in-train-vs-eval-mode) |
 | [Dropout Layer](https://www.deep-ml.com/problems/151) | medium | 2026-10-13 | [solution](problems/0151-dropout-layer) |
 | [Elastic Net Regression via Gradient Descent](https://www.deep-ml.com/problems/139) | medium | 2026-09-16 | [solution](problems/0139-elastic-net-regression-via-gradient-descent) |
 | [Elbow Method for K-Means](https://www.deep-ml.com/problems/827) | medium | 2026-09-30 | [solution](problems/0827-elbow-method-for-k-means) |
