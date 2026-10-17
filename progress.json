@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-17T04:29:44.478Z",
+  "generated_at": "2026-10-17T04:48:03.726Z",
   "items": {
     "lab:23": {
       "kind": "lab",
@@ -1490,6 +1490,19 @@
       "path": "math/0077-confidence-intervals-vs-prediction-intervals",
       "first_solved_at": "2026-10-17T04:29:43.784Z",
       "last_pushed_at": "2026-10-17T04:29:43.784Z"
+    },
+    "problem:155": {
+      "kind": "problem",
+      "id": "155",
+      "title": "CosineAnnealingLR Learning Rate Scheduler",
+      "difficulty": "medium",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/155",
+      "path": "problems/0155-cosineannealinglr-learning-rate-scheduler",
+      "first_solved_at": "2026-10-17T04:48:03.062Z",
+      "last_pushed_at": "2026-10-17T04:48:03.062Z",
+      "language": "python",
+      "lines": 20
     }
   }
 }
