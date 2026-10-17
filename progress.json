@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-17T03:08:47.133Z",
+  "generated_at": "2026-10-17T03:31:34.443Z",
   "items": {
     "lab:23": {
       "kind": "lab",
@@ -1453,6 +1453,19 @@
       "last_pushed_at": "2026-10-17T03:08:46.411Z",
       "language": "python",
       "lines": 35
+    },
+    "problem:910": {
+      "kind": "problem",
+      "id": "910",
+      "title": "Cosine LR Schedule with Linear Warmup",
+      "difficulty": "easy",
+      "category": "Pytorch",
+      "url": "https://www.deep-ml.com/problems/910",
+      "path": "problems/0910-cosine-lr-schedule-with-linear-warmup",
+      "first_solved_at": "2026-10-17T03:31:32.985Z",
+      "last_pushed_at": "2026-10-17T03:31:32.985Z",
+      "language": "python",
+      "lines": 30
     }
   }
 }
