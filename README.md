@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**122** solved · 98 problems · 15 labs · 9 math
+**123** solved · 99 problems · 15 labs · 9 math
 
 ![Coverage](./coverage.svg)
 
@@ -31,6 +31,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Implement Dropout from Scratch](https://www.deep-ml.com/problems/901) | easy | 2026-10-16 | [solution](problems/0901-implement-dropout-from-scratch) |
 | [Implement Early Stopping Based on Validation Loss](https://www.deep-ml.com/problems/135) | easy | 2026-09-17 | [solution](problems/0135-implement-early-stopping-based-on-validation-loss) |
 | [Implement Gini Impurity Calculation for a Set of Classes](https://www.deep-ml.com/problems/64) | easy | 2026-09-17 | [solution](problems/0064-implement-gini-impurity-calculation-for-a-set-of-classes) |
+| [Implement Global Average Pooling](https://www.deep-ml.com/problems/114) | easy | 2026-10-19 | [solution](problems/0114-implement-global-average-pooling) |
 | [Implement Hard Voting Classifier](https://www.deep-ml.com/problems/305) | easy | 2026-09-28 | [solution](problems/0305-implement-hard-voting-classifier) |
 | [Implement Hinge Loss for SVM](https://www.deep-ml.com/problems/283) | easy | 2026-09-20 | [solution](problems/0283-implement-hinge-loss-for-svm) |
 | [Implement LayerNorm from Scratch](https://www.deep-ml.com/problems/908) | easy | 2026-10-15 | [solution](problems/0908-implement-layernorm-from-scratch) |
