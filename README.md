@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**126** solved · 102 problems · 15 labs · 9 math
+**127** solved · 103 problems · 15 labs · 9 math
 
 ![Coverage](./coverage.svg)
 
@@ -51,6 +51,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Single Linear Neuron Forward](https://www.deep-ml.com/problems/1224) | easy | 2026-10-11 | [solution](problems/1224-single-linear-neuron-forward) |
 | [StepLR Learning Rate Scheduler](https://www.deep-ml.com/problems/153) | easy | 2026-10-17 | [solution](problems/0153-steplr-learning-rate-scheduler) |
 | [Adam Optimizer](https://www.deep-ml.com/problems/87) | medium | 2026-10-12 | [solution](problems/0087-adam-optimizer) |
+| [Apply a 2D Convolution](https://www.deep-ml.com/problems/1233) | medium | 2026-10-20 | [solution](problems/1233-apply-a-2d-convolution) |
 | [BatchNorm1d Forward in Eval Mode](https://www.deep-ml.com/problems/1231) | medium | 2026-10-16 | [solution](problems/1231-batchnorm1d-forward-in-eval-mode) |
 | [Bernoulli Naive Bayes Classifier](https://www.deep-ml.com/problems/140) | medium | 2026-09-17 | [solution](problems/0140-bernoulli-naive-bayes-classifier) |
 | [Bias-Variance Decomposition from Bootstrap](https://www.deep-ml.com/problems/804) | medium | 2026-09-17 | [solution](problems/0804-bias-variance-decomposition-from-bootstrap) |
