@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**128** solved · 104 problems · 15 labs · 9 math
+**129** solved · 104 problems · 15 labs · 10 math
 
 ![Coverage](./coverage.svg)
 
@@ -148,6 +148,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Margins and Soft-Margin SVMs](https://www.deep-ml.com/math-problems/42) | medium | 2026-09-19 | [solution](math/0042-margins-and-soft-margin-svms) |
 | [Statistical Inference](https://www.deep-ml.com/math-problems/27) | medium | 2026-09-28 | [solution](math/0027-statistical-inference) |
 | [The EM Algorithm](https://www.deep-ml.com/math-problems/41) | medium | 2026-09-28 | [solution](math/0041-the-em-algorithm) |
+| [Bagging, Variance Reduction and Random Forests](https://www.deep-ml.com/math-problems/114) | hard | 2026-10-20 | [solution](math/0114-bagging-variance-reduction-and-random-forests) |
 | [Bayesian Methods](https://www.deep-ml.com/math-problems/28) | hard | 2026-09-28 | [solution](math/0028-bayesian-methods) |
 | [Probabilistic Models](https://www.deep-ml.com/math-problems/29) | hard | 2026-09-28 | [solution](math/0029-probabilistic-models) |
 

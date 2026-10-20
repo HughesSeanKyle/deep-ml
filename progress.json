@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-20T07:14:01.943Z",
+  "generated_at": "2026-10-20T07:35:47.541Z",
   "items": {
     "lab:23": {
       "kind": "lab",
@@ -1646,6 +1646,17 @@
       "last_pushed_at": "2026-10-20T07:14:01.292Z",
       "language": "python",
       "lines": 30
+    },
+    "math:114": {
+      "kind": "math",
+      "id": "114",
+      "title": "Bagging, Variance Reduction and Random Forests",
+      "difficulty": "hard",
+      "category": "Machine Learning Fundamentals",
+      "url": "https://www.deep-ml.com/math-problems/114",
+      "path": "math/0114-bagging-variance-reduction-and-random-forests",
+      "first_solved_at": "2026-10-20T07:35:46.807Z",
+      "last_pushed_at": "2026-10-20T07:35:46.807Z"
     }
   }
 }
