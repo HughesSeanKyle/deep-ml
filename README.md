@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**124** solved · 100 problems · 15 labs · 9 math
+**125** solved · 101 problems · 15 labs · 9 math
 
 ![Coverage](./coverage.svg)
 
@@ -70,6 +70,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Gradient Accumulation Over Micro-Batches](https://www.deep-ml.com/problems/912) | medium | 2026-10-17 | [solution](problems/0912-gradient-accumulation-over-micro-batches) |
 | [Gradient Clipping by Norm](https://www.deep-ml.com/problems/909) | medium | 2026-10-17 | [solution](problems/0909-gradient-clipping-by-norm) |
 | [Handle Imbalanced Data with SMOTE](https://www.deep-ml.com/problems/357) | medium | 2026-09-21 | [solution](problems/0357-handle-imbalanced-data-with-smote) |
+| [Implement a ResNet Basic Block](https://www.deep-ml.com/problems/917) | medium | 2026-10-20 | [solution](problems/0917-implement-a-resnet-basic-block) |
 | [Implement AdamW Optimizer Step](https://www.deep-ml.com/problems/169) | medium | 2026-10-12 | [solution](problems/0169-implement-adamw-optimizer-step) |
 | [Implement Batch Normalization for BCHW Input](https://www.deep-ml.com/problems/115) | medium | 2026-10-15 | [solution](problems/0115-implement-batch-normalization-for-bchw-input) |
 | [Implement BatchNorm2d from Scratch (training mode)](https://www.deep-ml.com/problems/902) | medium | 2026-10-16 | [solution](problems/0902-implement-batchnorm2d-from-scratch-training-mode) |
