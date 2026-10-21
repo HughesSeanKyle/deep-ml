@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-20T07:35:47.541Z",
+  "generated_at": "2026-10-21T03:01:43.026Z",
   "items": {
     "lab:23": {
       "kind": "lab",
@@ -1657,6 +1657,19 @@
       "path": "math/0114-bagging-variance-reduction-and-random-forests",
       "first_solved_at": "2026-10-20T07:35:46.807Z",
       "last_pushed_at": "2026-10-20T07:35:46.807Z"
+    },
+    "problem:903": {
+      "kind": "problem",
+      "id": "903",
+      "title": "Implement a Custom `autograd.Function`",
+      "difficulty": "medium",
+      "category": "Pytorch",
+      "url": "https://www.deep-ml.com/problems/903",
+      "path": "problems/0903-implement-a-custom-autograd-function",
+      "first_solved_at": "2026-10-21T03:01:42.254Z",
+      "last_pushed_at": "2026-10-21T03:01:42.254Z",
+      "language": "python",
+      "lines": 26
     }
   }
 }
