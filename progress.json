@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-21T11:39:43.547Z",
+  "generated_at": "2026-10-22T03:51:04.458Z",
   "items": {
     "lab:23": {
       "kind": "lab",
@@ -1694,6 +1694,19 @@
       "path": "math/0073-standard-error-and-the-sampling-distribution-of-an-estimator",
       "first_solved_at": "2026-10-21T11:39:42.629Z",
       "last_pushed_at": "2026-10-21T11:39:42.629Z"
+    },
+    "lab:91c76ab2-7d3a-43a7-98ce-385aab6f1691": {
+      "kind": "lab",
+      "id": "91c76ab2-7d3a-43a7-98ce-385aab6f1691",
+      "title": "Train a Tiny CNN Image Classifier",
+      "difficulty": "hard",
+      "category": "Model Architecture",
+      "url": "https://www.deep-ml.com/labs/91c76ab2-7d3a-43a7-98ce-385aab6f1691",
+      "path": "labs/91c76ab2-7d3a-43a7-98ce-385aab6f1691-train-a-tiny-cnn-image-classifier",
+      "first_solved_at": "2026-10-22T03:51:03.506Z",
+      "last_pushed_at": "2026-10-22T03:51:03.506Z",
+      "language": "python",
+      "lines": 83
     }
   }
 }
