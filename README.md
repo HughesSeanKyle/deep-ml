@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**133** solved · 105 problems · 17 labs · 11 math
+**134** solved · 106 problems · 17 labs · 11 math
 
 ![Coverage](./coverage.svg)
 
@@ -95,6 +95,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Implement ROC Curve Calculation](https://www.deep-ml.com/problems/276) | medium | 2026-09-22 | [solution](problems/0276-implement-roc-curve-calculation) |
 | [Implement Stratified K-Fold Cross-Validation](https://www.deep-ml.com/problems/840) | medium | 2026-09-18 | [solution](problems/0840-implement-stratified-k-fold-cross-validation) |
 | [Implement the Huber Loss Function](https://www.deep-ml.com/problems/192) | medium | 2026-10-02 | [solution](problems/0192-implement-the-huber-loss-function) |
+| [Implementing a Simple RNN](https://www.deep-ml.com/problems/54) | medium | 2026-10-27 | [solution](problems/0054-implementing-a-simple-rnn) |
 | [Instance Normalization (IN) Implementation](https://www.deep-ml.com/problems/143) | medium | 2026-10-15 | [solution](problems/0143-instance-normalization-in-implementation) |
 | [Learning Curve Generator for Bias-Variance Diagnosis](https://www.deep-ml.com/problems/800) | medium | 2026-09-17 | [solution](problems/0800-learning-curve-generator-for-bias-variance-diagnosis) |
 | [Linear Discriminant Analysis (LDA) Binary Classifier](https://www.deep-ml.com/problems/798) | medium | 2026-10-02 | [solution](problems/0798-linear-discriminant-analysis-lda-binary-classifier) |
