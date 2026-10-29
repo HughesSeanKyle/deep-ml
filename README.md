@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**141** solved · 113 problems · 17 labs · 11 math
+**142** solved · 114 problems · 17 labs · 11 math
 
 ![Coverage](./coverage.svg)
 
@@ -49,6 +49,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Run One Training Step: Forward, Loss, Backward, Optimizer](https://www.deep-ml.com/problems/886) | easy | 2026-10-13 | [solution](problems/0886-run-one-training-step-forward-loss-backward-optimizer) |
 | [Save and Load Model Weights with state_dict](https://www.deep-ml.com/problems/888) | easy | 2026-10-13 | [solution](problems/0888-save-and-load-model-weights-with-state-dict) |
 | [Single Linear Neuron Forward](https://www.deep-ml.com/problems/1224) | easy | 2026-10-11 | [solution](problems/1224-single-linear-neuron-forward) |
+| [Sinusoidal Positional Encoding](https://www.deep-ml.com/problems/906) | easy | 2026-10-29 | [solution](problems/0906-sinusoidal-positional-encoding) |
 | [StepLR Learning Rate Scheduler](https://www.deep-ml.com/problems/153) | easy | 2026-10-17 | [solution](problems/0153-steplr-learning-rate-scheduler) |
 | [Adam Optimizer](https://www.deep-ml.com/problems/87) | medium | 2026-10-12 | [solution](problems/0087-adam-optimizer) |
 | [Apply a 2D Convolution](https://www.deep-ml.com/problems/1233) | medium | 2026-10-20 | [solution](problems/1233-apply-a-2d-convolution) |
