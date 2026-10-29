@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**139** solved · 111 problems · 17 labs · 11 math
+**140** solved · 112 problems · 17 labs · 11 math
 
 ![Coverage](./coverage.svg)
 
@@ -120,6 +120,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Implement AdaBoost Fit Method](https://www.deep-ml.com/problems/38) | hard | 2026-09-29 | [solution](problems/0038-implement-adaboost-fit-method) |
 | [Implement Bagging Classifier from Scratch](https://www.deep-ml.com/problems/307) | hard | 2026-09-29 | [solution](problems/0307-implement-bagging-classifier-from-scratch) |
 | [Implement Kernel PCA with RBF Kernel](https://www.deep-ml.com/problems/349) | hard | 2026-10-02 | [solution](problems/0349-implement-kernel-pca-with-rbf-kernel) |
+| [Implement Multi-Head Attention](https://www.deep-ml.com/problems/94) | hard | 2026-10-29 | [solution](problems/0094-implement-multi-head-attention) |
 | [Implement Stacking Classifier](https://www.deep-ml.com/problems/346) | hard | 2026-09-30 | [solution](problems/0346-implement-stacking-classifier) |
 | [Pegasos Kernel SVM Implementation](https://www.deep-ml.com/problems/21) | hard | 2026-10-02 | [solution](problems/0021-pegasos-kernel-svm-implementation) |
 | [Train Softmax Regression with Gradient Descent](https://www.deep-ml.com/problems/105) | hard | 2026-09-18 | [solution](problems/0105-train-softmax-regression-with-gradient-descent) |
