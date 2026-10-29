@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**142** solved · 114 problems · 17 labs · 11 math
+**143** solved · 115 problems · 17 labs · 11 math
 
 ![Coverage](./coverage.svg)
 
@@ -75,6 +75,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Handle Imbalanced Data with SMOTE](https://www.deep-ml.com/problems/357) | medium | 2026-09-21 | [solution](problems/0357-handle-imbalanced-data-with-smote) |
 | [Implement a Custom `autograd.Function`](https://www.deep-ml.com/problems/903) | medium | 2026-10-21 | [solution](problems/0903-implement-a-custom-autograd-function) |
 | [Implement a ResNet Basic Block](https://www.deep-ml.com/problems/917) | medium | 2026-10-20 | [solution](problems/0917-implement-a-resnet-basic-block) |
+| [Implement a Transformer Encoder Block](https://www.deep-ml.com/problems/905) | medium | 2026-10-29 | [solution](problems/0905-implement-a-transformer-encoder-block) |
 | [Implement AdamW Optimizer Step](https://www.deep-ml.com/problems/169) | medium | 2026-10-12 | [solution](problems/0169-implement-adamw-optimizer-step) |
 | [Implement an LSTM Cell from Scratch](https://www.deep-ml.com/problems/907) | medium | 2026-10-28 | [solution](problems/0907-implement-an-lstm-cell-from-scratch) |
 | [Implement Batch Normalization for BCHW Input](https://www.deep-ml.com/problems/115) | medium | 2026-10-15 | [solution](problems/0115-implement-batch-normalization-for-bchw-input) |
