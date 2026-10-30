@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-30T04:02:26.398Z",
+  "generated_at": "2026-10-30T06:34:33.101Z",
   "items": {
     "lab:23": {
       "kind": "lab",
@@ -1850,6 +1850,19 @@
       "last_pushed_at": "2026-10-30T04:02:25.081Z",
       "language": "python",
       "lines": 35
+    },
+    "problem:174": {
+      "kind": "problem",
+      "id": "174",
+      "title": "Train a Simple GAN on 1D Gaussian Data",
+      "difficulty": "hard",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/174",
+      "path": "problems/0174-train-a-simple-gan-on-1d-gaussian-data",
+      "first_solved_at": "2026-10-30T06:34:32.263Z",
+      "last_pushed_at": "2026-10-30T06:34:32.263Z",
+      "language": "python",
+      "lines": 130
     }
   }
 }
