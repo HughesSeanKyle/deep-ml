@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**146** solved · 117 problems · 18 labs · 11 math
+**147** solved · 118 problems · 18 labs · 11 math
 
 ![Coverage](./coverage.svg)
 
@@ -82,6 +82,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Implement BatchNorm2d from Scratch (training mode)](https://www.deep-ml.com/problems/902) | medium | 2026-10-16 | [solution](problems/0902-implement-batchnorm2d-from-scratch-training-mode) |
 | [Implement Conv2d with `unfold`](https://www.deep-ml.com/problems/900) | medium | 2026-10-20 | [solution](problems/0900-implement-conv2d-with-unfold) |
 | [Implement DBSCAN Clustering Algorithm](https://www.deep-ml.com/problems/259) | medium | 2026-09-30 | [solution](problems/0259-implement-dbscan-clustering-algorithm) |
+| [Implement Focal Loss](https://www.deep-ml.com/problems/915) | medium | 2026-10-30 | [solution](problems/0915-implement-focal-loss) |
 | [Implement Gaussian Mixture Model (GMM) E-step](https://www.deep-ml.com/problems/365) | medium | 2026-09-30 | [solution](problems/0365-implement-gaussian-mixture-model-gmm-e-step) |
 | [Implement Gaussian Mixture Model (GMM) M-step](https://www.deep-ml.com/problems/366) | medium | 2026-10-01 | [solution](problems/0366-implement-gaussian-mixture-model-gmm-m-step) |
 | [Implement Gradient Boosting Regressor Step](https://www.deep-ml.com/problems/344) | medium | 2026-09-29 | [solution](problems/0344-implement-gradient-boosting-regressor-step) |
