@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-31T04:19:21.406Z",
+  "generated_at": "2026-11-04T03:47:54.506Z",
   "items": {
     "lab:23": {
       "kind": "lab",
@@ -1941,6 +1941,17 @@
       "last_pushed_at": "2026-10-31T04:19:20.819Z",
       "language": "python",
       "lines": 104
+    },
+    "math:187": {
+      "kind": "math",
+      "id": "187",
+      "title": "Adjacency, Degree and the Normalized Adjacency Matrix",
+      "difficulty": "easy",
+      "category": "Graph Neural Networks",
+      "url": "https://www.deep-ml.com/math-problems/187",
+      "path": "math/0187-adjacency-degree-and-the-normalized-adjacency-matrix",
+      "first_solved_at": "2026-11-04T03:47:53.693Z",
+      "last_pushed_at": "2026-11-04T03:47:53.693Z"
     }
   }
 }

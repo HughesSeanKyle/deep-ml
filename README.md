@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**151** solved · 120 problems · 20 labs · 11 math
+**152** solved · 120 problems · 20 labs · 12 math
 
 ![Coverage](./coverage.svg)
 
@@ -162,6 +162,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 
 | | Difficulty | Solved | |
 | --- | --- | --- | --- |
+| [Adjacency, Degree and the Normalized Adjacency Matrix](https://www.deep-ml.com/math-problems/187) | easy | 2026-11-04 | [solution](math/0187-adjacency-degree-and-the-normalized-adjacency-matrix) |
 | [Class Imbalance and Proper Scoring](https://www.deep-ml.com/math-problems/44) | easy | 2026-09-21 | [solution](math/0044-class-imbalance-and-proper-scoring) |
 | [Model Selection: CV, AIC, and BIC](https://www.deep-ml.com/math-problems/43) | easy | 2026-09-16 | [solution](math/0043-model-selection-cv-aic-and-bic) |
 | [Standard Error and the Sampling Distribution of an Estimator](https://www.deep-ml.com/math-problems/73) | easy | 2026-10-21 | [solution](math/0073-standard-error-and-the-sampling-distribution-of-an-estimator) |
