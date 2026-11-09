@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-04T03:47:54.506Z",
+  "generated_at": "2026-11-09T07:00:49.651Z",
   "items": {
     "lab:23": {
       "kind": "lab",
@@ -1952,6 +1952,19 @@
       "path": "math/0187-adjacency-degree-and-the-normalized-adjacency-matrix",
       "first_solved_at": "2026-11-04T03:47:53.693Z",
       "last_pushed_at": "2026-11-04T03:47:53.693Z"
+    },
+    "problem:320": {
+      "kind": "problem",
+      "id": "320",
+      "title": "Calculate Perplexity for Language Models",
+      "difficulty": "easy",
+      "category": "NLP",
+      "url": "https://www.deep-ml.com/problems/320",
+      "path": "problems/0320-calculate-perplexity-for-language-models",
+      "first_solved_at": "2026-11-09T07:00:49.030Z",
+      "last_pushed_at": "2026-11-09T07:00:49.030Z",
+      "language": "python",
+      "lines": 26
     }
   }
 }
