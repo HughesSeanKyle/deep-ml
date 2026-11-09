@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**153** solved · 121 problems · 20 labs · 12 math
+**154** solved · 122 problems · 20 labs · 12 math
 
 ![Coverage](./coverage.svg)
 
@@ -47,6 +47,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Momentum Optimizer](https://www.deep-ml.com/problems/146) | easy | 2026-10-12 | [solution](problems/0146-momentum-optimizer) |
 | [Nesterov Accelerated Gradient Optimizer](https://www.deep-ml.com/problems/150) | easy | 2026-10-12 | [solution](problems/0150-nesterov-accelerated-gradient-optimizer) |
 | [One SGD Update Step](https://www.deep-ml.com/problems/1234) | easy | 2026-10-12 | [solution](problems/1234-one-sgd-update-step) |
+| [Regex-Based Text Tokenizer](https://www.deep-ml.com/problems/940) | easy | 2026-11-09 | [solution](problems/0940-regex-based-text-tokenizer) |
 | [Reshape and Transpose a Tensor](https://www.deep-ml.com/problems/881) | easy | 2026-10-10 | [solution](problems/0881-reshape-and-transpose-a-tensor) |
 | [Run One Training Step: Forward, Loss, Backward, Optimizer](https://www.deep-ml.com/problems/886) | easy | 2026-10-13 | [solution](problems/0886-run-one-training-step-forward-loss-backward-optimizer) |
 | [Save and Load Model Weights with state_dict](https://www.deep-ml.com/problems/888) | easy | 2026-10-13 | [solution](problems/0888-save-and-load-model-weights-with-state-dict) |
