@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**165** solved · 131 problems · 21 labs · 13 math
+**166** solved · 131 problems · 21 labs · 14 math
 
 ![Coverage](./coverage.svg)
 
@@ -182,6 +182,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Bias–Variance Decomposition](https://www.deep-ml.com/math-problems/39) | medium | 2026-09-16 | [solution](math/0039-bias-variance-decomposition) |
 | [Confidence Intervals vs Prediction Intervals](https://www.deep-ml.com/math-problems/77) | medium | 2026-10-17 | [solution](math/0077-confidence-intervals-vs-prediction-intervals) |
 | [Margins and Soft-Margin SVMs](https://www.deep-ml.com/math-problems/42) | medium | 2026-09-19 | [solution](math/0042-margins-and-soft-margin-svms) |
+| [Regression Tree Splits as Variance Reduction](https://www.deep-ml.com/math-problems/150) | medium | 2026-11-12 | [solution](math/0150-regression-tree-splits-as-variance-reduction) |
 | [Statistical Inference](https://www.deep-ml.com/math-problems/27) | medium | 2026-09-28 | [solution](math/0027-statistical-inference) |
 | [The EM Algorithm](https://www.deep-ml.com/math-problems/41) | medium | 2026-09-28 | [solution](math/0041-the-em-algorithm) |
 | [Bagging, Variance Reduction and Random Forests](https://www.deep-ml.com/math-problems/114) | hard | 2026-10-20 | [solution](math/0114-bagging-variance-reduction-and-random-forests) |
