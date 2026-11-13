@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-12T07:27:21.846Z",
+  "generated_at": "2026-11-13T06:57:31.367Z",
   "items": {
     "lab:23": {
       "kind": "lab",
@@ -2130,6 +2130,19 @@
       "path": "math/0150-regression-tree-splits-as-variance-reduction",
       "first_solved_at": "2026-11-12T07:27:21.056Z",
       "last_pushed_at": "2026-11-12T07:27:21.056Z"
+    },
+    "problem:945": {
+      "kind": "problem",
+      "id": "945",
+      "title": "Token Embedding Lookup Table",
+      "difficulty": "easy",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/945",
+      "path": "problems/0945-token-embedding-lookup-table",
+      "first_solved_at": "2026-11-13T06:57:30.366Z",
+      "last_pushed_at": "2026-11-13T06:57:30.366Z",
+      "language": "python",
+      "lines": 22
     }
   }
 }
