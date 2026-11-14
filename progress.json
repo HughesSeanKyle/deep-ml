@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-13T08:42:49.399Z",
+  "generated_at": "2026-11-14T06:33:36.929Z",
   "items": {
     "lab:23": {
       "kind": "lab",
@@ -2169,6 +2169,19 @@
       "last_pushed_at": "2026-11-13T08:42:48.414Z",
       "language": "python",
       "lines": 26
+    },
+    "problem:954": {
+      "kind": "problem",
+      "id": "954",
+      "title": "Construct Next-Token Prediction Targets",
+      "difficulty": "easy",
+      "category": "NLP",
+      "url": "https://www.deep-ml.com/problems/954",
+      "path": "problems/0954-construct-next-token-prediction-targets",
+      "first_solved_at": "2026-11-14T06:33:36.036Z",
+      "last_pushed_at": "2026-11-14T06:33:36.036Z",
+      "language": "python",
+      "lines": 22
     }
   }
 }
