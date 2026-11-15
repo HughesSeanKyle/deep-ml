@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**173** solved · 138 problems · 21 labs · 14 math
+**174** solved · 139 problems · 21 labs · 14 math
 
 ![Coverage](./coverage.svg)
 
@@ -21,6 +21,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Build a Dataset and Use It with a DataLoader](https://www.deep-ml.com/problems/899) | easy | 2026-10-13 | [solution](problems/0899-build-a-dataset-and-use-it-with-a-dataloader) |
 | [Build a Linear Regression Model with nn.Module](https://www.deep-ml.com/problems/885) | easy | 2026-10-13 | [solution](problems/0885-build-a-linear-regression-model-with-nn-module) |
 | [Build an MLP with nn.Sequential](https://www.deep-ml.com/problems/887) | easy | 2026-10-13 | [solution](problems/0887-build-an-mlp-with-nn-sequential) |
+| [Build Bigram Count Matrix from Words](https://www.deep-ml.com/problems/983) | easy | 2026-11-15 | [solution](problems/0983-build-bigram-count-matrix-from-words) |
 | [Build Vocabulary from Token List](https://www.deep-ml.com/problems/941) | easy | 2026-11-09 | [solution](problems/0941-build-vocabulary-from-token-list) |
 | [Calculate Perplexity for Language Models](https://www.deep-ml.com/problems/320) | easy | 2026-11-09 | [solution](problems/0320-calculate-perplexity-for-language-models) |
 | [Calculate SVM Margin Width](https://www.deep-ml.com/problems/282) | easy | 2026-09-20 | [solution](problems/0282-calculate-svm-margin-width) |
