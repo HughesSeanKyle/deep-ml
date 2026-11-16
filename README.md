@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**176** solved · 141 problems · 21 labs · 14 math
+**177** solved · 142 problems · 21 labs · 14 math
 
 ![Coverage](./coverage.svg)
 
@@ -142,6 +142,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Reconstruction Error from PCA](https://www.deep-ml.com/problems/353) | medium | 2026-09-18 | [solution](problems/0353-reconstruction-error-from-pca) |
 | [SGD with Momentum Step](https://www.deep-ml.com/problems/1235) | medium | 2026-10-12 | [solution](problems/1235-sgd-with-momentum-step) |
 | [Silhouette Score for Clustering Evaluation](https://www.deep-ml.com/problems/254) | medium | 2026-09-30 | [solution](problems/0254-silhouette-score-for-clustering-evaluation) |
+| [Train Bigram Language Model as a Neural Network](https://www.deep-ml.com/problems/988) | medium | 2026-11-16 | [solution](problems/0988-train-bigram-language-model-as-a-neural-network) |
 | [Two-Layer MLP Forward Pass](https://www.deep-ml.com/problems/1225) | medium | 2026-10-11 | [solution](problems/1225-two-layer-mlp-forward-pass) |
 | [Implement a Simple RNN with Backpropagation Through Time (BPTT)](https://www.deep-ml.com/problems/62) | hard | 2026-10-27 | [solution](problems/0062-implement-a-simple-rnn-with-backpropagation-through-time-bptt) |
 | [Implement AdaBoost Fit Method](https://www.deep-ml.com/problems/38) | hard | 2026-09-29 | [solution](problems/0038-implement-adaboost-fit-method) |
