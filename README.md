@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**175** solved · 140 problems · 21 labs · 14 math
+**176** solved · 141 problems · 21 labs · 14 math
 
 ![Coverage](./coverage.svg)
 
@@ -52,6 +52,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Implement ReLU and Leaky ReLU](https://www.deep-ml.com/problems/1226) | easy | 2026-10-11 | [solution](problems/1226-implement-relu-and-leaky-relu) |
 | [Implement Triplet Loss](https://www.deep-ml.com/problems/916) | easy | 2026-10-31 | [solution](problems/0916-implement-triplet-loss) |
 | [Implement Weight Decay as L2 Regularization](https://www.deep-ml.com/problems/198) | easy | 2026-09-16 | [solution](problems/0198-implement-weight-decay-as-l2-regularization) |
+| [Laplace Smoothing for Bigram Probabilities](https://www.deep-ml.com/problems/987) | easy | 2026-11-16 | [solution](problems/0987-laplace-smoothing-for-bigram-probabilities) |
 | [Linear Kernel Function](https://www.deep-ml.com/problems/45) | easy | 2026-09-20 | [solution](problems/0045-linear-kernel-function) |
 | [Mean Squared Error from Scratch](https://www.deep-ml.com/problems/1228) | easy | 2026-10-11 | [solution](problems/1228-mean-squared-error-from-scratch) |
 | [Momentum Optimizer](https://www.deep-ml.com/problems/146) | easy | 2026-10-12 | [solution](problems/0146-momentum-optimizer) |
