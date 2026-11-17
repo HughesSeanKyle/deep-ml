@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-17T06:25:05.313Z",
+  "generated_at": "2026-11-17T09:04:16.165Z",
   "items": {
     "lab:23": {
       "kind": "lab",
@@ -2299,6 +2299,19 @@
       "last_pushed_at": "2026-11-17T06:25:04.515Z",
       "language": "python",
       "lines": 45
+    },
+    "problem:955": {
+      "kind": "problem",
+      "id": "955",
+      "title": "Simple Self-Attention Without Trainable Weights",
+      "difficulty": "easy",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/955",
+      "path": "problems/0955-simple-self-attention-without-trainable-weights",
+      "first_solved_at": "2026-11-17T09:03:04.520Z",
+      "last_pushed_at": "2026-11-17T09:03:04.520Z",
+      "language": "python",
+      "lines": 30
     }
   }
 }
