@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**186** solved · 151 problems · 21 labs · 14 math
+**187** solved · 152 problems · 21 labs · 14 math
 
 ![Coverage](./coverage.svg)
 
@@ -138,6 +138,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Mixed-Precision Forward with `autocast`](https://www.deep-ml.com/problems/911) | medium | 2026-10-31 | [solution](problems/0911-mixed-precision-forward-with-autocast) |
 | [MLP Character-Level Language Model Forward Pass](https://www.deep-ml.com/problems/989) | medium | 2026-11-16 | [solution](problems/0989-mlp-character-level-language-model-forward-pass) |
 | [Multi-Head Attention via Head Stacking](https://www.deep-ml.com/problems/958) | medium | 2026-11-19 | [solution](problems/0958-multi-head-attention-via-head-stacking) |
+| [Multi-Head Attention with Combined QKV Weight Matrix](https://www.deep-ml.com/problems/959) | medium | 2026-11-20 | [solution](problems/0959-multi-head-attention-with-combined-qkv-weight-matrix) |
 | [Multinomial Naive Bayes Classifier](https://www.deep-ml.com/problems/817) | medium | 2026-10-02 | [solution](problems/0817-multinomial-naive-bayes-classifier) |
 | [Numerically Stable Cross-Entropy](https://www.deep-ml.com/problems/914) | medium | 2026-10-17 | [solution](problems/0914-numerically-stable-cross-entropy) |
 | [Numerically Stable Softmax](https://www.deep-ml.com/problems/1227) | medium | 2026-10-11 | [solution](problems/1227-numerically-stable-softmax) |
