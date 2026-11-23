@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-22T05:19:03.183Z",
+  "generated_at": "2026-11-23T04:25:31.594Z",
   "items": {
     "lab:23": {
       "kind": "lab",
@@ -2507,6 +2507,19 @@
       "last_pushed_at": "2026-11-22T05:19:02.319Z",
       "language": "python",
       "lines": 25
+    },
+    "problem:1055": {
+      "kind": "problem",
+      "id": "1055",
+      "title": "Greedy Streaming Decoder with KV Cache",
+      "difficulty": "medium",
+      "category": "NLP",
+      "url": "https://www.deep-ml.com/problems/1055",
+      "path": "problems/1055-greedy-streaming-decoder-with-kv-cache",
+      "first_solved_at": "2026-11-23T04:25:30.876Z",
+      "last_pushed_at": "2026-11-23T04:25:30.876Z",
+      "language": "python",
+      "lines": 36
     }
   }
 }
