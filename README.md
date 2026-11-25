@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**197** solved · 162 problems · 21 labs · 14 math
+**198** solved · 163 problems · 21 labs · 14 math
 
 ![Coverage](./coverage.svg)
 
@@ -137,6 +137,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Implementing a Simple RNN](https://www.deep-ml.com/problems/54) | medium | 2026-10-27 | [solution](problems/0054-implementing-a-simple-rnn) |
 | [Instance Normalization (IN) Implementation](https://www.deep-ml.com/problems/143) | medium | 2026-10-15 | [solution](problems/0143-instance-normalization-in-implementation) |
 | [Knowledge Distillation Loss](https://www.deep-ml.com/problems/227) | medium | 2026-10-30 | [solution](problems/0227-knowledge-distillation-loss) |
+| [KV Cache for Efficient Autoregressive Attention](https://www.deep-ml.com/problems/376) | medium | 2026-11-25 | [solution](problems/0376-kv-cache-for-efficient-autoregressive-attention) |
 | [Learning Curve Generator for Bias-Variance Diagnosis](https://www.deep-ml.com/problems/800) | medium | 2026-09-17 | [solution](problems/0800-learning-curve-generator-for-bias-variance-diagnosis) |
 | [Linear Discriminant Analysis (LDA) Binary Classifier](https://www.deep-ml.com/problems/798) | medium | 2026-10-02 | [solution](problems/0798-linear-discriminant-analysis-lda-binary-classifier) |
 | [Mixed-Precision Forward with `autocast`](https://www.deep-ml.com/problems/911) | medium | 2026-10-31 | [solution](problems/0911-mixed-precision-forward-with-autocast) |
