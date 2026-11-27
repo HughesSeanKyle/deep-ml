@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**201** solved · 166 problems · 21 labs · 14 math
+**202** solved · 166 problems · 21 labs · 15 math
 
 ![Coverage](./coverage.svg)
 
@@ -210,6 +210,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | | Difficulty | Solved | |
 | --- | --- | --- | --- |
 | [Adjacency, Degree and the Normalized Adjacency Matrix](https://www.deep-ml.com/math-problems/187) | easy | 2026-11-04 | [solution](math/0187-adjacency-degree-and-the-normalized-adjacency-matrix) |
+| [Catastrophic Forgetting as Curvature-Weighted Displacement](https://www.deep-ml.com/math-problems/264) | easy | 2026-11-27 | [solution](math/0264-catastrophic-forgetting-as-curvature-weighted-displacement) |
 | [Class Imbalance and Proper Scoring](https://www.deep-ml.com/math-problems/44) | easy | 2026-09-21 | [solution](math/0044-class-imbalance-and-proper-scoring) |
 | [Model Selection: CV, AIC, and BIC](https://www.deep-ml.com/math-problems/43) | easy | 2026-09-16 | [solution](math/0043-model-selection-cv-aic-and-bic) |
 | [Standard Error and the Sampling Distribution of an Estimator](https://www.deep-ml.com/math-problems/73) | easy | 2026-10-21 | [solution](math/0073-standard-error-and-the-sampling-distribution-of-an-estimator) |
